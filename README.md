@@ -38,75 +38,107 @@ I'm an undergraduate student currently at fifth-semester Computer Science studen
 ### <li> Project #1 </li>
 <table>
   <tr>
-    <td rowspan="4">
-      <img width="200px" height="200px" src="">
+    <td rowspan="4" width="225px" height="225px" align="center">
+      <img width="200px" src="https://github.com/EricHerdian/MazeGame/assets/86960299/36163347-90ef-4b28-913a-09aff2da0ee8">
     </td>
-    <td width="800px">Title: </td>
+    <td>Title</td>
+    <td width="680px">Maze Game</td>
   </tr>
   <tr>
-    <td>Working as: </td>
+    <td>Working as</td>
+    <td>Game Programmer</td>
   </tr>
   <tr>
-    <td>Description:</td>
+    <td>Description</td>
+    <td>A simple maze game, where players must navigate the maze to proceed to the next level.</td>
   </tr>
   <tr>
-    <td>Link: <a href="">Click Here!</a> </td>
+    <td>Link</td>
+    <td>
+      <a href="https://github.com/EricHerdian/MazeGame/blob/main/README.md">Page</a>
+      |
+      <a href="https://drive.google.com/file/d/1z0YCES51eeU-Iu8qsD5PmM3kQD5yGNNV/view?usp=drive_link">Download</a>
+    </td>
   </tr>
 </table>
 
 ### <li> Project #2 </li>
 <table>
   <tr>
-    <td rowspan="4">
-      <img width="200px" height="200px" src="">
+    <td rowspan="4" width="225px" height="225px" align="center">
+      <img width="200px" height="200px" src="https://github.com/EricHerdian/Othello/assets/86960299/6d12fe96-1d02-442d-8fb3-a5a6be3939d1">
     </td>
-    <td width="800px">Title: </td>
+    <td>Title</td>
+    <td width="680px">Othello</td>
   </tr>
   <tr>
-    <td>Working as: </td>
+    <td>Working as</td>
+    <td>Game Programmer</td>
   </tr>
   <tr>
-    <td>Description:</td>
+    <td>Description</td>
+    <td>Othello is a strategy board game for two players taking turn with black and white side, played on an 8 x 8 board.</td>
   </tr>
   <tr>
-    <td>Link: <a href="">Click Here!</a> </td>
+    <td>Link</td>
+    <td>
+      <a href="https://github.com/EricHerdian/Othello/blob/main/README.md">Page</a>
+      |
+      <a href="https://drive.google.com/file/d/1y6jPzU640brykyBKQuS2CYT1xha0-b6q/view?usp=drive_link">Download</a>
+    </td>
   </tr>
 </table>
 
 ### <li> Project #3 </li>
 <table>
   <tr>
-    <td rowspan="4">
-      <img width="200px" height="200px" src="">
+    <td rowspan="4" width="225px" height="225px" align="center">
+      <img width="200px" height="200px" src="https://github.com/EricHerdian/Ping-Pong/assets/86960299/0acd304b-b309-47f9-a89d-365c29ccd788">
     </td>
-    <td width="800px">Title: </td>
+    <td>Title</td>
+    <td width="680px">Ping Pong</td>
   </tr>
   <tr>
-    <td>Working as: </td>
+    <td>Working as</td>
+    <td>Game Programmer</td>
   </tr>
   <tr>
-    <td>Description:</td>
+    <td>Description</td>
+    <td>Ping Pong is an arcade game with table tennis–themed.</td>
   </tr>
   <tr>
-    <td>Link: <a href="">Click Here!</a> </td>
+    <td>Link</td>
+    <td>
+      <a href="https://github.com/EricHerdian/Ping-Pong/blob/main/README.md">Page</a>
+      |
+      <a href="https://drive.google.com/file/d/15Mqx7zEgHFRfN-KfjtxjQ8Hlr3DD8fyz/view?usp=drive_link">Download</a>
+    </td>
   </tr>
 </table>
 
 ### <li> Project #4 </li>
 <table>
   <tr>
-    <td rowspan="4">
-      <img width="200px" height="200px" src="">
+    <td rowspan="4" width="225px" height="225px" align="center">
+      <img width="200px" src="https://github.com/EricHerdian/Space-Invaders/assets/86960299/8b7724a7-acf2-4ced-90cf-cae082134e74">
     </td>
-    <td width="800px">Title: </td>
+    <td>Title</td>
+    <td width="680px">Space Invaders</td>
   </tr>
   <tr>
-    <td>Working as: </td>
+    <td>Working as</td>
+    <td>Game Programmer</td>
   </tr>
   <tr>
-    <td>Description:</td>
+    <td>Description</td>
+    <td>Space Invaders is an arcade shooter game, where player need to move 'ship' horizontally, survive and defeat all the enemies to win the game.</td>
   </tr>
   <tr>
-    <td>Link: <a href="">Click Here!</a> </td>
+    <td>Link</td>
+    <td>
+      <a href="https://github.com/EricHerdian/Space-Invaders/blob/main/README.md">Page</a>
+      |
+      <a href="https://drive.google.com/file/d/1FgjsEpoINwBw4AJFJ097kEwDg_rmVjuO/view?usp=drive_link">Download</a>
+    </td>
   </tr>
 </table>
