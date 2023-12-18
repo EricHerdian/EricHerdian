@@ -21,16 +21,92 @@ I'm an undergraduate student currently at fifth-semester Computer Science studen
 
 ## ⚙️ Languages and Tools
 
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-<br />
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
+<br>
 
-### ⚒️ Project
+#
 
-Test
+## ⚒️ Projects
+
+### <li> Project #1 </li>
+<table>
+  <tr>
+    <td rowspan="4">
+      <img width="200px" height="200px" src="">
+    </td>
+    <td width="800px">Title: </td>
+  </tr>
+  <tr>
+    <td>Working as: </td>
+  </tr>
+  <tr>
+    <td>Description:</td>
+  </tr>
+  <tr>
+    <td>Link: <a href="">Click Here!</a> </td>
+  </tr>
+</table>
+
+### <li> Project #2 </li>
+<table>
+  <tr>
+    <td rowspan="4">
+      <img width="200px" height="200px" src="">
+    </td>
+    <td width="800px">Title: </td>
+  </tr>
+  <tr>
+    <td>Working as: </td>
+  </tr>
+  <tr>
+    <td>Description:</td>
+  </tr>
+  <tr>
+    <td>Link: <a href="">Click Here!</a> </td>
+  </tr>
+</table>
+
+### <li> Project #3 </li>
+<table>
+  <tr>
+    <td rowspan="4">
+      <img width="200px" height="200px" src="">
+    </td>
+    <td width="800px">Title: </td>
+  </tr>
+  <tr>
+    <td>Working as: </td>
+  </tr>
+  <tr>
+    <td>Description:</td>
+  </tr>
+  <tr>
+    <td>Link: <a href="">Click Here!</a> </td>
+  </tr>
+</table>
+
+### <li> Project #4 </li>
+<table>
+  <tr>
+    <td rowspan="4">
+      <img width="200px" height="200px" src="">
+    </td>
+    <td width="800px">Title: </td>
+  </tr>
+  <tr>
+    <td>Working as: </td>
+  </tr>
+  <tr>
+    <td>Description:</td>
+  </tr>
+  <tr>
+    <td>Link: <a href="">Click Here!</a> </td>
+  </tr>
+</table>
