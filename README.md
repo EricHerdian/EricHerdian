@@ -33,6 +33,34 @@ I'm an undergraduate student currently at fifth-semester Computer Science studen
 
 #
 
+## 💻 Recent Project
+
+<table>
+  <tr>
+    <td rowspan="4" width="225px" height="225px" align="center">
+      <img width="200px" src="" alt="image">
+    </td>
+    <td>Title</td>
+    <td width="680px">-</td>
+  </tr>
+  <tr>
+    <td>Working as</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Description</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td>
+      <a href="">Page</a>
+      |
+      <a href="">Download</a>
+    </td>
+  </tr>
+</table>
+
 ## ⚒️ Projects
 
 ### <li> Project #1 </li>
