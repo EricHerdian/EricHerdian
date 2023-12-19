@@ -38,25 +38,25 @@ I'm an undergraduate student currently at fifth-semester Computer Science studen
 <table>
   <tr>
     <td rowspan="4" width="225px" height="225px" align="center">
-      <img width="200px" src="" alt="image">
+      <img width="200px" src="https://github.com/EricHerdian/EricHerdian/assets/86960299/42d9b5bb-5a11-49ee-af12-6f73d5bb8e19" alt="image">
     </td>
     <td>Title</td>
-    <td width="680px">-</td>
+    <td width="680px">Harmony Heaven</td>
   </tr>
   <tr>
     <td>Working as</td>
-    <td>-</td>
+    <td>2D Game Artist</td>
   </tr>
   <tr>
     <td>Description</td>
-    <td>-</td>
+    <td>Harmony Heaven is a turn-based rhythm fighting game where players battle each other using music and rhythm.</td>
   </tr>
   <tr>
     <td>Link</td>
     <td>
       <a href="">Page</a>
       |
-      <a href="">Download</a>
+      <a href="https://neonnovastudio.itch.io/harmony-heaven">Download</a>
     </td>
   </tr>
 </table>
