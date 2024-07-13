@@ -27,5 +27,6 @@ Hello! I'm Eric Herdian, a Computer Science student at Bina Nusantara University
 ## Get in Touch
 
 - Email: [eric.herdian@binus.ac.id](mailto:eric.herdian@binus.ac.id)
+- Portfolio: [Notion](https://clumsy-fir-6fe.notion.site/My-Portfolio-de05d73424fc4b75b1690d9a8ce94435)
 
 Feel free to explore my repositories and reach out for collaboration or any questions you may have!
