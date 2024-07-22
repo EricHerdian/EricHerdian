@@ -9,8 +9,11 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/-Godot_Engine-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
@@ -24,11 +27,17 @@ Hello! I'm Eric Herdian, a Computer Science student at Bina Nusantara University
 
 - 🎓 **Education:** Studying Computer Science at Bina Nusantara University.
 - 💻 **Skills:** Proficient in HTML, CSS, JavaScript, React, and Next.js.
+- 🔧 Backend Development: Currently learning backend development with Express.js.
 - 🎮 **Game Development:** Exploring game development with [Godot & Unity].
 - 🌐 **IoT:** Currently diving into IoT projects and learning.
-- 🎨 **Design:** Enjoy designing user interfaces and experiences using tools like Figma and Canva.
+- 🎨 **Design:** Enjoy designing user interfaces and experiences using tools like Figma.
 
 ## Current Projects
+
+### [Post-Hub]
+
+- **Description:** This project is a a full-stack web application designed to manage and interact with blog posts. The application provides functionalities for user authentication, blog post management, and responsive design.
+- **Link:** [click here](https://github.com/EricHerdian/post-hub)
 
 ### [Nasi Ayam Bagan Hong Lie Khuan - Landing Page]
 
