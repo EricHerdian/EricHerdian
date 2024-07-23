@@ -34,11 +34,6 @@ Hello! I'm Eric Herdian, a Computer Science student at Bina Nusantara University
 
 ## Current Projects
 
-### [Post-Hub]
-
-- **Description:** This project is a a full-stack web application designed to manage and interact with blog posts. The application provides functionalities for user authentication, blog post management, and responsive design.
-- **Link:** [click here](https://github.com/EricHerdian/post-hub)
-
 ### [Nasi Ayam Bagan Hong Lie Khuan - Landing Page]
 
 - **Description:** This project is a landing page for UMKM Nasi Ayam Hong Lie Khuan, showcasing their signature dish "Nasi Ayam Bagan" along with other offerings.
@@ -62,6 +57,11 @@ Hello! I'm Eric Herdian, a Computer Science student at Bina Nusantara University
 - **Description:** This Focus-List App is a web application designed to help users manage their tasks effectively.
 - **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, MongoDB, Remixicon.
 - **Link:** [click here](https://github.com/EricHerdian/focus-list)
+
+### [Post-Hub]
+
+- **Description:** This project is a a full-stack web application designed to manage and interact with blog posts. The application provides functionalities for user authentication, blog post management, and responsive design.
+- **Link:** [click here](https://github.com/EricHerdian/post-hub)
 
 ## Get in Touch
 
