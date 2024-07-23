@@ -49,7 +49,7 @@ Hello! I'm Eric Herdian, a Computer Science student at Bina Nusantara University
 ### [Taste-Trails]
 
 - **Description:** Taste-Trails is a web application built with Next.js that allows users to browse and search for recipes.
-- **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, REST API for recipe data.
+- **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, [shadcn/ui](https://ui.shadcn.com/) REST API for recipe data.
 - **Link:** [click here](https://github.com/EricHerdian/taste-trails)
 
 ### [Focus-List]
@@ -61,6 +61,7 @@ Hello! I'm Eric Herdian, a Computer Science student at Bina Nusantara University
 ### [Post-Hub]
 
 - **Description:** This project is a a full-stack web application designed to manage and interact with blog posts. The application provides functionalities for user authentication, blog post management, and responsive design.
+- **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, [shadcn/ui](https://ui.shadcn.com/), Express.js, Node.js.
 - **Link:** [click here](https://github.com/EricHerdian/post-hub)
 
 ## Get in Touch
