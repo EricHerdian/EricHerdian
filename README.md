@@ -39,11 +39,6 @@ Hello! I'm Eric Herdian, a Computer Science student at Bina Nusantara University
 - **Description:** This project is a landing page for UMKM Nasi Ayam Hong Lie Khuan, showcasing their signature dish "Nasi Ayam Bagan" along with other offerings.
 - **Link:** [click here](https://github.com/EricHerdian/umkm-landing-page)
 
-### [IoT Water Quality]
-
-- **Description:** This project is a real-time IoT data visualization application built using Streamlit. It connects to a MongoDB database to fetch sensor data related to water quality, including temperature, pH, TDS (Total Dissolved Solids), and EC (Electrical Conductivity). The application predicts the water quality status (Good, Moderate, Bad) based on the sensor data using a pre-trained machine learning model. 
-- **Link:** [click here](https://github.com/haemuucia/finalproject)
-
 ## Projects
 
 ### [Taste-Trails]
@@ -63,6 +58,11 @@ Hello! I'm Eric Herdian, a Computer Science student at Bina Nusantara University
 - **Description:** This project is a a full-stack web application designed to manage and interact with blog posts. The application provides functionalities for user authentication, blog post management, and responsive design.
 - **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, Express.js, Node.js.
 - **Link:** [click here](https://github.com/EricHerdian/post-hub)
+
+### [IoT Water Quality]
+
+- **Description:** This project is a real-time IoT data visualization application built using Streamlit. It connects to a MongoDB database to fetch sensor data related to water quality, including temperature, pH, TDS (Total Dissolved Solids), and EC (Electrical Conductivity). The application predicts the water quality status (Good, Moderate, Bad) based on the sensor data using a pre-trained machine learning model. 
+- **Link:** [click here](https://github.com/haemuucia/finalproject)
 
 ## Get in Touch
 
