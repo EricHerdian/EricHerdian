@@ -31,7 +31,7 @@ I specialize in building scalable, user-friendly web applications using **React,
 
 ## 💼 Experience
 
-**Frontend Developer Intern — PT. Bank Central Asia (BCA), Internal Audit Division**  
+**Application Developer Intern — PT. Bank Central Asia (BCA), Internal Audit Division**  
 *Sept 2024 – Feb 2025*  
 - Designed and developed internal audit application systems.  
 - Built and maintained tools supporting Continuous Audit activities.  
