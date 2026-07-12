@@ -72,7 +72,8 @@ Full-stack blog management platform.
 
 ## 📫 Get in Touch
 
-- Email: [herdiance.zhang@gmail.com](mailto:eric.herdian@binus.ac.id)
+- Email: [eric.herdian@binus.ac.id](mailto:eric.herdian@binus.ac.id)
+- Email: [herdianeric.zhang@gmail.com](mailto:herdianeric.zhang@gmail.com)
 - LinkedIn: [linkedin.com/in/eric-herdian](https://linkedin.com/in/eric-herdian)
 - Portfolio: [Notion Portfolio](https://clumsy-fir-6fe.notion.site/My-Portfolio-de05d73424fc4b75b1690d9a8ce94435)
 - GitHub: [github.com/EricHerdian](https://github.com/EricHerdian)
